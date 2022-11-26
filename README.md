@@ -1,1 +1,1 @@
-# slot-machine-game
+# pixi-slot-game
